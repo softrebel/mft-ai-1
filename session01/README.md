@@ -57,3 +57,8 @@
 5. مفهوم Pythonic
 6. مفهوم Clean Code
 7. نام‌گذاری متغیرها به صورت snake case و camel case
+
+## مهارت‌های جانبی
+1. نصب git
+2. نصب github desktop
+3. ساخت اکانت در github
