@@ -71,16 +71,3 @@ print(even('a',10))
 <div dir="rtl">
 
 
-## تحقیق
-1. در مورد Zen of Python تحقیق کنید.
-2. آیا استفاده از continue و break در روش‌های برنامه‌نویسی جدید توصیه می‌شود؟
-3. تفاوت data type و data structure
-4. تعاریف و تفاوت‌هایinital value, falsy value, zero value
-5. مفهوم Pythonic
-6. مفهوم Clean Code
-7. نام‌گذاری متغیرها به صورت snake case و camel case
-
-## مهارت‌های جانبی
-1. نصب git
-2. نصب github desktop
-3. ساخت اکانت در github
