@@ -25,6 +25,7 @@
 <div dir="rtl">
 
 2.تابعی بنویسید که دو عدد صحیح مثبت a و b را دریافت کند و یک لیست از همه اعداد زوج بین a و b را برگرداند (شامل aباشد و شامل b نباشد).
+```python
 
 from typing import List
 
@@ -44,7 +45,7 @@ def even(a:int , b:int) -> List[int]:
 print(even(0,10))  
 print(even(1.5,10.75))  
 print(even('a',10))
-
+```
 3.در رابطه با توابع all() و any() تحقیق کرده و کدهای زیر را refactor کنید
 
 
