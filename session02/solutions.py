@@ -79,7 +79,7 @@ print("exercise 4: count metal")
 
 def count_metal(song):
     out = 0
-    for item in soung.split("-"):
+    for item in song.split("-"):
         if "metal" in item:
             out += 1
     return out
